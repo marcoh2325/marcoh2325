@@ -24,44 +24,16 @@
 ## My Techstack
 <div align="center">  
   
-  <a href="https://jupyter.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></a>
+  <a href="https://jupyter.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="50"></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50"></a>
+   <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" height="50"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Numpy" height="50"></a>
+  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/360px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib" height="50"></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50"></a>
+  <a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="50"></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50"></a>
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"></a>
   
-    <a href="https://jupyter.org" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 100px;">
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" height="50" style="vertical-align:middle;"/>
-        Jupyter Notebook
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle;"/>
-        Python
-    </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" style="vertical-align:middle;"/>
-        NumPy
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="vertical-align:middle;"/>
-        Pandas
-    </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/360px-Matplotlib_icon.svg.png?20150311090915" alt="matplotlib" width="40" height="40" style="vertical-align:middle;"/>
-        Matplotlib
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="vertical-align:middle;"/>
-        Seaborn
-    </a>
-        <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40" style="vertical-align:middle;"/>
-        R
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="vertical-align:middle;"/>
-        Scikit-learn
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="vertical-align:middle;"/>
-        Tensorflow
-    </a> 
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
         <img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" alt="Power BI" width="40" height="40" style="vertical-align:middle;"/>
         Power BI
