@@ -24,19 +24,19 @@
 ## My Techstack
 <div align="center">  
   
-  <a href="https://jupyter.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="50"></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50"></a>
-   <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" height="50"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Numpy" height="50"></a>
-  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/360px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib" height="50"></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50"></a>
-  <a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="50"></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50"></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" alt="PowerBI" height="50"></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
-  <a href="https://neo4j.com/"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" height="50"></a>
+  <a href="https://jupyter.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="70"></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"></a>
+   <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" height="70"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Numpy" height="70"></a>
+  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/360px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib" height="70"></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="70"></a>
+  <a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="70"></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="70"></a>
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="70"></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" alt="PowerBI" height="70"></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="70"></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="70"></a>
+  <a href="https://neo4j.com/"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" height="70"></a>
   </div> 
 
 <div align="center">  
