@@ -23,7 +23,7 @@
 
 ## My Techstack
 <div align="center">  
-    <a href="https://jupyter.org" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 20px;">
+    <a href="https://jupyter.org" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 100px;">
         <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" height="50" style="vertical-align:middle;"/>
         Jupyter Notebook
     </a> 
