@@ -33,23 +33,10 @@
   <a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="50"></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50"></a>
   <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"></a>
-  
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" alt="Power BI" width="40" height="40" style="vertical-align:middle;"/>
-        Power BI
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:middle;"/>
-        MySQL
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="vertical-align:middle;"/>
-        MongoDB
-    </a>
-    <a href="https://neo4j.com/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" width="40" height="40" style="vertical-align:middle;"/>
-        Neo4j
-    </a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" alt="PowerBI" height="50"></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
+  <a href="https://neo4j.com/"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" height="50"></a>
   </div> 
 
 <div align="center">  
