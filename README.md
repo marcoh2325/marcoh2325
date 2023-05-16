@@ -42,15 +42,6 @@
   <a href="https://neo4j.com/"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="Neo4j" height="70"></a>
   </div> 
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="PowerBI" height="75" />  
-</div> 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/marcoh2325" target="_blank">
@@ -69,22 +60,4 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcoh2325&show_icons=true&theme=dark" align="center" /></div>  
 
-
-
 <br/>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
