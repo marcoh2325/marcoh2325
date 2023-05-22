@@ -51,6 +51,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+[![Gmail Badge](https://img.shields.io/badge/-hernani.marcoantonio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hernani.marcoantonio@gmail.com)](mailto:hernani.marcoantonio@gmail.com) 
   
 
 <br/>  
