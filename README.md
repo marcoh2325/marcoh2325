@@ -50,9 +50,10 @@
 <a href="https://linkedin.com/in/marcohernani/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-[![Gmail Badge](https://img.shields.io/badge/-hernani.marcoantonio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hernani.marcoantonio@gmail.com)](mailto:hernani.marcoantonio@gmail.com) 
+<a href="hernani.marcoantonio@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
+</div>
   
 
 <br/>  
