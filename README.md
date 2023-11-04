@@ -6,16 +6,16 @@
 ### <div align="center">I'm Marco, a Data Scientist and Data Analyst</div>  
   
 
-- 🔭 I’m currently looking for a job.  
+- 🔭 Working as python developer.
   
 
-- 🌱 I’m currently learning machine learning and git.  
+- 🌱 I’m currently learning more about DevOps and git.
   
 
-- 👯 I want to create more interesting projects.  
+- 👯 I want to improve as developer while strenghten my mathematical background
   
 
-- ⚡ Fun fact: I love mathematics and fantasy books  
+- ⚡ Fun fact: I love mathematics, basketball and I'm learnign to play Go
   
 
 <br/>  
