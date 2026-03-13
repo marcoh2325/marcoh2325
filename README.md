@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Marco, a Data Scientist and Data Analyst</div>  
+### <div align="center">I'm Marco, a Data Scientist/Python Developer</div>  
   
 
 - 🔭 Looking for a job as python developer, data analyst or data scientist.
   
 
-- 🌱 I’m studying daily to improve as developer and to make sense of data.
+- 🌱 I’m studying daily to make better software and to make use of data to develop better products.
   
 
-- ⚡ Fun fact: I love mathematics, basketball and I'm learnign to play Go.
+- ⚡ Fun fact: I love mathematics, basketball and I'm learning to play Go.
   
 
 <br/>  
